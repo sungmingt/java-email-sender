@@ -26,7 +26,4 @@ public class MemberController {
 
         return new ResponseEntity("success", OK);
     }
-
-
-
 }
